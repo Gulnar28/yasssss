@@ -26,3 +26,17 @@ C:\Users\ACER\Desktop\yasss\yasss\yasss\obj\Debug\netcoreapp3.1\yasss.csproj.Cor
 C:\Users\ACER\Desktop\yasss\yasss\yasss\obj\Debug\netcoreapp3.1\yasss.dll
 C:\Users\ACER\Desktop\yasss\yasss\yasss\obj\Debug\netcoreapp3.1\yasss.pdb
 C:\Users\ACER\Desktop\yasss\yasss\yasss\obj\Debug\netcoreapp3.1\yasss.genruntimeconfig.cache
+C:\Users\ACER\Desktop\EXERCISE\yasss\yasss\yasss\bin\Debug\netcoreapp3.1\yasss.exe
+C:\Users\ACER\Desktop\EXERCISE\yasss\yasss\yasss\bin\Debug\netcoreapp3.1\yasss.deps.json
+C:\Users\ACER\Desktop\EXERCISE\yasss\yasss\yasss\bin\Debug\netcoreapp3.1\yasss.runtimeconfig.json
+C:\Users\ACER\Desktop\EXERCISE\yasss\yasss\yasss\bin\Debug\netcoreapp3.1\yasss.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\EXERCISE\yasss\yasss\yasss\bin\Debug\netcoreapp3.1\yasss.dll
+C:\Users\ACER\Desktop\EXERCISE\yasss\yasss\yasss\bin\Debug\netcoreapp3.1\yasss.pdb
+C:\Users\ACER\Desktop\EXERCISE\yasss\yasss\yasss\obj\Debug\netcoreapp3.1\yasss.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\EXERCISE\yasss\yasss\yasss\obj\Debug\netcoreapp3.1\yasss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\EXERCISE\yasss\yasss\yasss\obj\Debug\netcoreapp3.1\yasss.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\EXERCISE\yasss\yasss\yasss\obj\Debug\netcoreapp3.1\yasss.AssemblyInfo.cs
+C:\Users\ACER\Desktop\EXERCISE\yasss\yasss\yasss\obj\Debug\netcoreapp3.1\yasss.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\EXERCISE\yasss\yasss\yasss\obj\Debug\netcoreapp3.1\yasss.dll
+C:\Users\ACER\Desktop\EXERCISE\yasss\yasss\yasss\obj\Debug\netcoreapp3.1\yasss.pdb
+C:\Users\ACER\Desktop\EXERCISE\yasss\yasss\yasss\obj\Debug\netcoreapp3.1\yasss.genruntimeconfig.cache
